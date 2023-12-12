@@ -1,3 +1,9 @@
+/* Media Query pour les petits écrans (téléphones portables) */
+@media screen and (max-width: 480px) {
+  /* Ajoutez vos styles pour les téléphones portables ici */
+  /* Réorganisez, redimensionnez ou masquez des éléments pour s'adapter à l'écran plus petit */
+}
+
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
 
 :root {
